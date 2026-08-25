@@ -28,4 +28,4 @@ Name: Prince Ernest Sean R. Vizcarra
 Section: 8-Rosal
 
 ## Code for reference
-https://www.programiz.com/python-programming/online-compiler/
+https://www.programiz.com/
