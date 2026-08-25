@@ -15,9 +15,9 @@ This program calculates the distance of kilometers to miles with an option to co
 - q
 
 ## Sample Output
-Enter x: 5
-Enter a: yes
-Enter q: 2
+- Enter x: 5
+- Enter a: yes
+- Enter q: 2
 
 Distance in miles: 3.106855
 Distance in miles is: 1.242742
