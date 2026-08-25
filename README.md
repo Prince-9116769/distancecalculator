@@ -26,3 +26,6 @@ Distance in miles is: 1.242742
 ## Author
 Name: Prince Ernest Sean R. Vizcarra
 Section: 8-Rosal
+
+## Code for reference
+https://www.programiz.com/python-programming/online-compiler/
