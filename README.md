@@ -20,6 +20,7 @@ This program calculates the distance of kilometers to miles with an option to co
 - Enter q: 2
 
 Distance in miles: 3.106855
+Enter distance in kilometers
 Distance in miles is: 1.242742
 
 ## Author
