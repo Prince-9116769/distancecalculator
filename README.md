@@ -15,7 +15,6 @@ This program calculates the distance of kilometers to miles with an option to co
 - q
 
 ## Sample Output
-
 Enter x: 5
 Enter a: yes
 Enter q: 2
@@ -28,4 +27,4 @@ Name: Prince Ernest Sean R. Vizcarra
 Section: 8-Rosal
 
 ## Code for reference
-https://www.programiz.com/
+https://www.programiz.com/online-compiler/95rObR3X7Vi1k
