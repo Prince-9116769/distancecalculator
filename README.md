@@ -1,1 +1,28 @@
 # distancecalculator
+
+## Description
+This program calculates the distance of kilometers to miles with an option to convert another distance after it calculates the first distance
+## How to Run
+
+1. Open the program file in VS Code, Replit, or Google Colab.
+2. Run the program.
+3. Enter the distance you want to convert in kilometer
+4. Check the distance displayed on the screen.
+
+## Input Needed
+- x
+- a
+- q
+
+## Sample Output
+
+Enter x: 5
+Enter a: yes
+Enter q: 2
+
+Distance in miles: 3.106855
+Distance in miles is: 1.242742
+
+## Author
+Name: Prince Ernest Sean R. Vizcarra
+Section: 8-Rosal
