@@ -23,6 +23,11 @@ Distance in miles: 3.106855,
 Enter distance in kilometers,
 Distance in miles is: 1.242742,
 
+- Enter x: 5
+- Enter a: no
+
+Distance in miles: 3.106855, Program has ended
+
 ## Author
 Name: Prince Ernest Sean R. Vizcarra
 Section: 8-Rosal
